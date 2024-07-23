@@ -1,0 +1,24 @@
+/* Selector de tipo */
+h1 {
+  color: blue;
+}
+
+/* Selector de clase */
+.parrafo {
+  color: green;
+}
+
+/* Selector de ID */
+#parrafo-especial {
+  color: red;
+}
+
+/* Selector de descendiente */
+div p {
+  color: purple;
+}
+
+/* Selector de elemento de lista */
+ul li {
+  color: orange;
+}
